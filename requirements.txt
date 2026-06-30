@@ -1,0 +1,6 @@
+# No external Python packages are required.
+# This app uses only the Python standard library (tkinter).
+#
+# This file exists so tools/installers that expect a requirements.txt
+# don't error out. If you run `pip install -r requirements.txt`, it will
+# simply do nothing — that's expected.
