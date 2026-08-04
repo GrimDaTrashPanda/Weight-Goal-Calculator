@@ -14,6 +14,14 @@ connection required.
 
 ---
 
+## Download
+
+If you just want to run the app without installing Python, grab the latest pre-built Windows executable from the [Releases](https://github.com/GrimDaTrashPanda/Weight-Goal-Calculator/releases) page. No installation required, just download and run weight_calculator.exe.
+
+The steps below are for building from source instead (needed for macOS/Linux, or if you want to inspect the code first).
+
+---
+
 ## What this app does
 
 - Calculates your **BMR** (Basal Metabolic Rate — calories burned at
@@ -274,3 +282,4 @@ history, or other factors that can significantly change safe and
 appropriate calorie targets. Always consult a registered dietitian,
 nutritionist, or physician before making changes to your diet, exercise,
 or weight management plan.
+
